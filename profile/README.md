@@ -2,7 +2,7 @@
 
 # Welcome!
 
-Welcome to VMware AI Labs! Below you’ll find a showcase of diverse and innovative AI/ML projects developed by our talented Research and Development team at VMware. Each project demonstrates our dedication to pushing the boundaries of AI and ML technologies and solving real-world challenges.
+Welcome to VMware AI & Advanced Services! Below you’ll find a showcase of diverse and innovative AI/ML projects developed by our talented Research and Development team at VMware. Each project demonstrates our dedication to pushing the boundaries of AI and ML technologies and solving real-world challenges.
 
 # Finding your way
 
@@ -21,10 +21,10 @@ Below is a list of featured AI & ML open-source projects we are very excited to 
 | [FATE-Operator](https://github.com/kubeflow/fate-operator)                                                                          | The FATE-Operator enables users to seamlessly execute federated workloads using FATE on diverse Kubernetes clusters. This flexibility empowers organizations to harness the power of federated learning across their infrastructure, and collaborative AI model training. By simplifying the deployment process, FATE-Operator contributes to democratizing federated learning adoption and accelerating innovation in privacy-preserving AI solutions.                                                                                                                                                                                                                                       | FATE                                  | Contributing               |
 | [Kubeflow](https://www.kubeflow.org/)                                                                                               | A machine learning operations (MLOps) platform built on top of Kubernetes providing a comprehensive set of tools to streamline the deployment of machine learning workflows.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Machine Learning                      | Contributing               |
 | [Ray](https://github.com/ray-project/ray/commit/4428a3ff8dbb74d29ea25f3b41fe8e5b881a049f)                                           | Adds VMware platforms support, such as vSphere, to Ray Auroscaler                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Machine Learning                      | Contributing               |
-# About VMware AI Labs
+# About VMware AI & Advanced Services
 
-At VMware AI Labs, we are passionate about harnessing the power of AI and ML to unlock new realms of possibilities. Our team of dedicated developers and thinkers combine years of experience with cutting-edge technology to create solutions that enchant and inspire.
-Follow us [on X/Twitter](https://twitter.com/vmwocto) and check in on the latest news and project updates [at our blog](https://octo.vmware.com/). 
+At VMware AI & Advanced Services, we are passionate about harnessing the power of AI and ML to unlock new realms of possibilities. Our team of dedicated developers and thinkers combine years of experience with cutting-edge technology to create solutions that enchant and inspire.
+ 
 
 <details>
 <summary>GPL Commitment</summary>
